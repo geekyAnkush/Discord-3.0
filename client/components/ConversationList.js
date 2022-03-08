@@ -33,7 +33,7 @@ const ConversationList = () => {
               alt='friends'
             />
           </div>
-          <p>Fiends</p>
+          <p>Friends</p>
         </div>
         <div className={styles.elementsContainer}>
           <div className={styles.svgContainer}>
